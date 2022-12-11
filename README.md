@@ -1,1 +1,1 @@
-https://cotiglight.github.io/rsschool-cv/
+https://cotiflight.github.io/rsschool-cv/
